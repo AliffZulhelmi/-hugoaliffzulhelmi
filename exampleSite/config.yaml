@@ -154,7 +154,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/profile.png"
+    image: "/images/profile.jpg"
     content: |-
       A passionate tech enthusiast. I tend to create new thing with modern technologies, research to truely protect it against the adversaries, and pentest it to move 1 step ahead.
     skills:
@@ -249,7 +249,6 @@ params:
           I Joined GMi CTF Elite Team To Compete At CTF Competitions On My First Semester
           - International Battle Of Hacker 2024
           - PwC Hackaday CTF 2024
-          - SherpaSec CTF 2024
 
           Project
           - (Coming Soon)Currently On Developing Phase New Generation Artificial Intelligence with my college friend
@@ -261,7 +260,7 @@ params:
         school:
           name: "SMK Sungai Besi"
           url: "https://ms.wikipedia.org/wiki/Sekolah_Menengah_Kebangsaan_Sungai_Besi"
-        GPA: "5A of 9"
+        GPA: "Graduate with 5A"
         featuredLink:
           enable: false
           url: "https://example.com"
@@ -280,7 +279,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     # title: "Custom Name"
     items:
       - title: Hugo Profile
