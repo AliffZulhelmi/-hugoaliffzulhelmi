@@ -133,7 +133,7 @@ params:
     content: "A passionate tech enthusiast. I tend to create new thing with modern technologies, research to truely protect it against the adversaries, and pentest it to move 1 step ahead."
     image: /images/hero.svg
     bottomImage:
-      enable: true
+      enable: false
     # roundImage: true # Make hero image circular | default false
     button:
       enable: false
@@ -145,9 +145,9 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/AliffZulhelmi
-        - icon: fab fa-x-instagram
+        - icon: fab fa-instagram
           url: https://www.instagram.com/aliffzulhelmi.exe/
-        - icon: fab fa-x-linkedin
+        - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/aliff-zulhelmi/
 
   # About
