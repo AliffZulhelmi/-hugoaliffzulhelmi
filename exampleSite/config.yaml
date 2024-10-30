@@ -131,7 +131,7 @@ params:
     title: "Aliff Zulhelmi."
     subtitle: "I build, protect and pentest things"
     content: "A passionate tech enthusiast. I tend to create new thing with modern technologies, research to truely protect it against the adversaries, and pentest it to move 1 step ahead."
-    image: /images/hero.svg
+    image: /images/fav.png
     bottomImage:
       enable: false
     # roundImage: true # Make hero image circular | default false
@@ -154,7 +154,7 @@ params:
   about:
     enable: true
     title: "About Me"
-    image: "/images/me.png"
+    image: "/images/profile.png"
     content: |-
       A passionate tech enthusiast. I tend to create new thing with modern technologies, research to truely protect it against the adversaries, and pentest it to move 1 step ahead.
     skills:
@@ -164,8 +164,8 @@ params:
         - "Web Development Language"
         - "Programming Language [C , Python]"
         - "Pentesting Tools[BurpSuite, Nmap, Wireshark]"
+        - "Forensic Tools[Autopsy, IDA Pro, Magnet Axiom]"
         - "S.O.C Tools[Wazuh, Splunk]"
-        - "Operating System[Windows 10/11, Kali Linux]"
         - "Environment[Visual Studio Code, Sublime]"
 
   # Experience
@@ -271,22 +271,12 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Google kickstart runner
-        content: I solved all problems with optimal solution.
-        url: https://example.com
+      - title: International Battle Of Hackers 2024
+        content: Compete with a hundred teams from worldwide.
         image: /images/achievment.jpg
-      - title: Facebook Hackathon Winner
-        content: Developed a product using Artificial Intelligence.
+      - title: 3108CTF 2024
+        content: Compete with over 500 hackers from Malaysia.
         image: /images/achievment.jpg
-      - title: Hugo Profile
-        content: Developed a theme and getting 1K+ downloads per month.
-        url: "https://github.com/gurusabarish/hugo-profile"
-        image: /images/achievment.jpg
-      - title: Microsoft Imagine Runner
-        content: We are developed a product which can help others.
-      - title: Google Summer of Code
-        content: Contributed to a open source project.
-        url: https://example.com
 
   # projects
   projects:
@@ -362,7 +352,6 @@ params:
     socialNetworks:
       github: https://github.com/AliffZulhelmi
       linkedin: https://www.linkedin.com/in/aliff-zulhelmi/
-      twitter: https://twitter.com
       instagram: https://www.instagram.com/aliffzulhelmi.exe/
       facebook: https://www.facebook.com/aliffzulhelmi21/
 
